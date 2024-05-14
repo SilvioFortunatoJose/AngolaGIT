@@ -1,2 +1,4 @@
 commit inicial
 commit secundário
+
+Commit do clone do projecto
